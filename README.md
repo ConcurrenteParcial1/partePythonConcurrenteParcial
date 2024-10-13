@@ -1,5 +1,6 @@
 https://github.com/ffernandoss/partePythonConcurrenteParcial.git
 
+hecho por fernando santamaria y jose antonio oyono
 En este repositorio se encuentra la parte del código correspondiente a Python. Está formado por las clases `Exponencial` y `Normal`, y el CSV correspondiente a cada una.
 
 ### Exponencial
